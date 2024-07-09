@@ -27,7 +27,7 @@
 <p align="center">
   <ol>
     <li><strong>Clone the repository:</strong>
-      <pre><code>git clone https://github.com/EGuseinov/TicTacToe.git
+      <pre><code>git clone  https://github.com/EGuseinov/TicTacToe-Game-with-GUI.git 
 cd tictactoe</code></pre>
     </li>
     <li><strong>Run the game:</strong>
