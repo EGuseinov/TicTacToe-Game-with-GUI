@@ -1,5 +1,5 @@
 <h1 align="center">Tic-Tac-Toe Game</h1>
-<h3 align="center">A Simple Tic-Tac-Toe Game with GUI</h3>
+<h3 align="center"> Simple Tic-Tac-Toe Game with GUI</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python 3.x">
   <img src="https://img.shields.io/badge/Tkinter-Built--in-blue.svg" alt="Tkinter">
